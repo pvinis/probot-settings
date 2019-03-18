@@ -1,4 +1,7 @@
 repository:
   name: probot-settings
-  description: description of this testrepo
+  
+  description: my probot settings
+  
+  has_wiki: false
   
